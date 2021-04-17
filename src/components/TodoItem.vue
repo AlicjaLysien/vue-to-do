@@ -7,8 +7,6 @@
       <span class="trash" @click="removeItem"><font-awesome-icon icon="trash" /></span>
       <span class="check" v-if="!item.completed" @click="checkItem"><font-awesome-icon icon="check" /></span>
     </div>
-    <font-awesome-icon icon="arrow-up" />
-    <font-awesome-icon icon="arrow-down" />
   </div>
 
 </template>

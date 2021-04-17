@@ -133,7 +133,6 @@ export default {
   color: #8044C7;
   padding: 10px 15px;
   margin: auto 0;
-;
 }
 
 .item.completed{
